@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[On my Skill](https://github.com/mukeshdani)**
 
-- 🌱 I’m currently learning **Coding and Web development.**
+- 🌱 I’m currently learning **[B-Tech(Computer Science & Engineering)](https://www.msit.in/),Coding and Web development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
