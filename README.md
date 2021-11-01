@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mukeshdani00@gmail.com**
 
-- ⚡ Fun fact **Watching Cricket .**
+- ⚡ Fun fact **Playing & Watching Cricket .**
 
 ## 🚀 Languages and Tools:
 
