@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="250px" src="img.gif" height="50px"/></a>
+
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mukesh Dani</h1>
 <h3 align="center">Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people</h3>
