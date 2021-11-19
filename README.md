@@ -68,7 +68,7 @@
 <a href = "https://www.facebook.com/profile.php?id=100009897572527"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/mukeshdani00?utm_medium=copy_link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://youtube.com/channel/UCDaiv6irbm0uMaS6xDhpq5w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
