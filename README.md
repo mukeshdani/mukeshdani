@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mukesh Dani</h1>
-<h3 align="center">Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people</h3>
+<h3 align="center">As a developer and leader, I combine technical rigor with people-first leadership—crafting scalable solutions while mentoring teams to grow and succeed.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[On my Skill](https://github.com/mukeshdani)**
 
-- 🌱 I’m currently learning **[B-Tech(Computer Science & Engineering)](https://www.msit.in/),Coding and Web development.**
+- 🎓 I’ve completed my **[B-Tech(Computer Science & Engineering)](https://www.msit.in/),Coding and Web development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
