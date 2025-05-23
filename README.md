@@ -8,8 +8,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[On my Skill](https://github.com/mukeshdani)**
-
-- 🎓 I’ve completed my **[B-Tech(Computer Science & Engineering)](https://www.msit.in/),Coding and Web development.**
+- 🌱 I’m actively expanding my expertise in modern web technologies, cloud-native architecture, and team leadership to build impactful solutions and inspire engineering excellence.
+- 🎓 I’ve completed my **[B-Tech(Computer Science & Engineering) from MSIT](https://www.msit.in/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
