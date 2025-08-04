@@ -35,8 +35,11 @@
     
 </p>
 
+
  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) <!--[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) -->
 <br/>
+
+
 
 <p align="center">
     <a href="https://github.com/mukeshdani/github-readme-streak-stats">
@@ -65,10 +68,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mukeshdani00"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100009897572527"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/mukeshdani00?utm_medium=copy_link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://youtube.com/channel/UCDaiv6irbm0uMaS6xDhpq5w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
 
 </p>
 
@@ -76,4 +77,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mukeshdani">
 </a>
-<a href="https://github.com/mukeshdani?tab=followers"><img src="https://img.shields.io/github/followers/mukeshdani?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Imtiyaz-78?tab=followers"><img src="https://img.shields.io/github/followers/Md Imtiyaz?label=Followers&style=social" alt="GitHub Badge"></a>
